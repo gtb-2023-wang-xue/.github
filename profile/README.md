@@ -6,7 +6,7 @@ Hi, this is Wang Xue, nice to see you.
 ![My college](./assets/my_college.jpg)
 
 ### This is me in college:
-![My college](./assets/my_college.jpg)
+![Me in college](./assets/my_college.jpg)
 
 ### This is my favorite writer:
 ![Haruki_Murakami](./assets/Haruki_Murakami.jpg)
